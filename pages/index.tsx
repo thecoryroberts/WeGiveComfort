@@ -47,7 +47,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               <li>Professional feature 3</li>
             </ul>
           </BasicSection>
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Donation Driven" overTitle="Appreciation">
+          <BasicSection imageUrl="/donation.png" title="Donation Driven" overTitle="Appreciation">
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
               voluptate quo deleniti animi laboriosam.{' '}
