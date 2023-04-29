@@ -13,11 +13,10 @@ export default function Cta() {
     <CtaWrapper>
       <Container>
         <Stack>
-          <OverTitle>Lorem ipsum dolor sit amet</OverTitle>
-          <SectionTitle>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus delectus?</SectionTitle>
+          <OverTitle>Request a little comfort for yourself or someone you love.</OverTitle>
+          <SectionTitle>Request Application</SectionTitle>
           <Description>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda beatae accusamus deleniti nihil quas tempora numquam, vitae
-            culpa.
+          If you or someone you know is currently receiving cancer treatment in Kanawha County, WV please send us an email for an application. We want to help you during this difficult time.
           </Description>
           <ButtonGroup>
             <NextLink href="#early-access" passHref>
@@ -27,7 +26,7 @@ export default function Cta() {
             </NextLink>
             <NextLink href="#whitepaper" passHref>
               <OutlinedButton transparent>
-                Features <span>&rarr;</span>
+               Donate Today <span>&rarr;</span>
               </OutlinedButton>
             </NextLink>
           </ButtonGroup>
