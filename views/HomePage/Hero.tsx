@@ -14,11 +14,10 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <CustomOverTitle>Empowering our communityh with comfort.</CustomOverTitle>
+        <Heading>What is Give Comfort, Inc?</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        We are here to make sure that all of our neighbors have the items they need to feel more comfortable while they are on cancer treatment. Cancer is hard enough. We do not want anyone to go through treatment without the items they need to be more comfortable. We are here. We will give comfort.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
@@ -26,7 +25,7 @@ export default function Hero() {
           </Button>
           <NextLink href="#whitepaper" passHref>
             <Button transparent>
-              Features <span>&rarr;</span>
+              Learn More <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>
